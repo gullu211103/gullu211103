@@ -97,8 +97,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PerumalGullu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerumalGullu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gullu211103&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullu211103&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -106,14 +106,4 @@
 <p align="center">
   <i>"Building real-world solutions one commit at a time."</i><br/>
   <b>Open to full-time opportunities in Full-Stack, AI/ML, or Mobile Development</b>
-</p>Mobile-first design with smooth animations
-Showcases 4 live projects for recruiter engagement
-🏅 Achievements
-Award	Details
-🥇 Class Topper	Ranked #1 in MSc Computer Science
-📚 Subject Topper × 6	AI · ML · Data Science · Cryptography · Theory of Computation
-💡 Ideathon 2025	Recognition Award — selected among top innovators
-🎙️ Class Representative	Led student-faculty communication for MSc batch
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PerumalGullu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerumalGullu&layout=compact&theme=tokyonight&hide_border=true" height="165"/> </p>
-<p align="center"> <i>"Building real-world solutions one commit at a time."</i><br/> <b>Open to full-time opportunities in Full-Stack, AI/ML, or Mobile Development</b> </p>
+</p>
